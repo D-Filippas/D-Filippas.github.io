@@ -1,1 +1,18 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Economics
+      institution: University of Mannheim; Mannheim, Germany.
+      year: 2029 
 
+
+    - title: MSc in Economics (Data Science Track)
+      institution: Tilburg University; Tilburg, The Netherlands.
+      year: 2022
+      description:
+        - Description 1.
+        - Description 2.
+        
+    - title: BSc (Hons) in Economics
+      institution: Tilburg University; Tilburg, The Netherlands.
+      year: 2020
