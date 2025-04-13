@@ -42,7 +42,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("www.uni-mannheim.de/gess/programs/cdse/our-students/2024/dimitrios-filippas/", "_blank");
+          window.open("https://www.uni-mannheim.de/gess/programs/cdse/our-students/2024/dimitrios-filippas/", "_blank");
         },
       },{
       id: 'light-theme',
