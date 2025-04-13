@@ -31,6 +31,20 @@ ninja.data = [{
           window.open("mailto:%64%66%69%6C%69%70%70%61@%6D%61%69%6C.%75%6E%69-%6D%61%6E%6E%68%65%69%6D.%64%65", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/D-Filippas", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/dimitris-filippas", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
