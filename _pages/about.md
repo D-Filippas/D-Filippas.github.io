@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Mannheim</p>
-    <p>B6, 30–32(2nd floor)</p>
+    <p>B6, 30–32 (2nd floor)</p>
     <p>Mannheim, 68159</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
