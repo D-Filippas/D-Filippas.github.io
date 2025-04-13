@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center; margin-top: 10px;">
-      <p style="margin: 4px 0;">University of Mannheim</p>
-      <p style="margin: 4px 0;">B6, 30–32 (2nd floor)</p>
-      <p style="margin: 4px 0;">Mannheim, 68159.</p>
+      <p style="margin: 0;">University of Mannheim</p>
+      <p style="margin: 0;">B6, 30–32 (2nd floor)</p>
+      <p style="margin: 0;">Mannheim, 68159.</p>
     </div>
    
 selected_papers: false # includes a list of papers marked as "selected={true}"
