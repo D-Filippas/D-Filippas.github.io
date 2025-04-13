@@ -46,6 +46,6 @@ scholar_userid: L6CdQEoAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
  custom_social: # can be any name here other than the ones already defined above
-   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+   logo: assets/img/mannheim_logo.png # can be png, svg, jpg
    title: Institutional Webpage
    url: https://www.uni-mannheim.de/gess/programs/cdse/our-students/2024/dimitrios-filippas/
