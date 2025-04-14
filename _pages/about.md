@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: <a href='#'>dfilippa@mail.uni-mannheim.de</a>.
 
 profile:
   align: right
